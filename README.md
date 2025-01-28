@@ -1,4 +1,5 @@
-# Fast Moving Consumer Goods
+# Supply Chain Analysis
+
 ## Domain: FMCG (Fast-Moving Consumer Goods)
 The FMCG sector involves the production and distribution of essential and high-demand consumer goods, such as food, beverages, and personal care items. Supply chain efficiency and customer service are critical success factors, especially when entering new markets.
 ________________________________________
